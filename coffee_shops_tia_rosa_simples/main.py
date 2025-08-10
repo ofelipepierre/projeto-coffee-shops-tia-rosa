@@ -1,4 +1,12 @@
-# Arquivo: main.py
+"""
+Arquivo Principal (main.py)
+----------------------------
+É por aqui que o programa começa a rodar.
+
+A ideia dele é ser simples: só mostrar o menu de opções para o usuário
+e chamar a função certa que está lá no `functions.py`. Decidi não colocar
+nenhuma lógica de negócio aqui para ficar mais organizado.
+"""
 
 # Usamos 'as fn' para dar um "apelido" ao nome do arquivo, facilitando a chamada
 import functions as fn
